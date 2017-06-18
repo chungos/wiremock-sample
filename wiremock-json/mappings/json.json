@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/api/json",
+        "bodyPatterns" : [{
+            "equalToJson" : "{ \"id\": \"123\" }"
+        }]
+    },
+    "response": {
+        "status": 200,
+          "jsonBody": {
+          "jsonresponse": "{ \"holla\": \"json is hllering\"}" 
+        }}
+}

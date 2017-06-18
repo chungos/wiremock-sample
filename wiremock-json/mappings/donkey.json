@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/donkey"
+    },
+    "response": {
+        "status": 200,
+        "body": "this is a donkey!!!\n"
+    }
+}
