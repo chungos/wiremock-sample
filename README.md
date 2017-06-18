@@ -1,2 +1,2 @@
 # wiremock-sample
-wiremock sample project using java
+wiremock server example project using java and json to configure it
